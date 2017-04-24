@@ -46,3 +46,5 @@ ggplot(dft, aes(data,casos, color=variable))+geom_line()+
   scale_color_manual(values=c("magenta", "green"))+
   scale_y_continuous(breaks=c(0,2,4,6,8,10),limits=c(0,10))+
   theme_bw()+ theme(legend.position="none")
+
+ggsave("./plots_raw/feminicidio_rio.png")
