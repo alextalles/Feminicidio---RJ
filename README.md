@@ -22,7 +22,7 @@ cidade
 ![alt text](plots_raw/feminicidio_rio.png)
 
 estado
-![alt text](plots_raw/feminicidio_rjfa.png)
+![alt text](plots_raw/feminicidio_rj.png)
 
 
 
