@@ -3,7 +3,7 @@
 # Total de Feminicídios e de Tentativas de Feminicídios Ocorridos no Municipio do Rio de Janeiro
 
 ## Analise
-#### [blablalba ?]
+#### [Quantas mulheres são mortas no Rio de Janeiro pelo simples fato de serem mulheres?]
 
 
 Em 09 de Março de 2015 entrou em vigor a lei 13.104 que alterava o código penal brasileiro, criando uma nova modalidade para homicídio qualificado: o feminicídio. Entende-se por feminicídio os crimes contra a vida por a) razões da condição do sexo feminino, b) violência doméstica e c) menosprezo ou discriminação à  condição de mulher. Na mesma linha, a Assembléia Legislativa do Estado do Rio sancionou em 2016 a lei 7448, que obriga a inclusão dos dados referentes ao feminicídio no banco de dados da polícia. 
@@ -12,10 +12,10 @@ Segundo a Organização Mundial da Saúde, o Brasil possuí a quinta maior taxa 
 
 O DATA BASE propõe-se a atualizar mensalmente os dados sobre feminicídios e tentativas de feminicídios na cidade do Rio de Janeiro.   
 
-periodo: nov 2016 - fev 2017
+Período: 4 meses. nov 2016 - fev 2017
 
-total Estado: 222
-Total Cidade: 35
+Total tentativas e mortes no Estado: 22
+Total tentativas e mortes na Cidade: 35
 
 
 ###### Série Temporal dos Feminicídios e de Tentativas de Feminicídios
