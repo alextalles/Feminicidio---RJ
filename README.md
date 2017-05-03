@@ -14,7 +14,7 @@ O DATA BASE propõe-se a atualizar mensalmente os dados sobre feminicídios e te
 
 Período: 4 meses. nov 2016 - fev 2017
 
-Total tentativas e mortes no Estado: 22
+Total tentativas e mortes no Estado: 222
 Total tentativas e mortes na Cidade: 35
 
 
